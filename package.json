@@ -1,0 +1,27 @@
+{
+  "name": "rally-cli",
+  "version": "1.0.0",
+  "description": "Pet project to make rally more useful, since I'm forced to use it.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staticvoidmain/rally-cli.git"
+  },
+  "keywords": [
+    "rally",
+    "cli",
+    "tasks"
+  ],
+  "author": "@RossJennings",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/staticvoidmain/rally-cli/issues"
+  },
+  "homepage": "https://github.com/staticvoidmain/rally-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
